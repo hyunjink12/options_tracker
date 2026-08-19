@@ -1,1 +1,1 @@
-readme WIP
+project abandoned. generic & useless
